@@ -1,3 +1,3 @@
 # map of C#
 
-![alt text](https://github.com/mechaniac/Map_of_C#/blob/main/CSharp_01.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/mechaniac/Map_of_CSharp/main/CSharp_01.jpg)
